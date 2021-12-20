@@ -1,0 +1,5 @@
+i. put database name: db          in phpmyadmin
+
+git
+
+Dipanjan98
